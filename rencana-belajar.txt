@@ -3,4 +3,5 @@ RENCANA BELAJAR
 - CSS
 - JavaScript 
   * Dasar-dasar JavaScript
+  * Belajar OOP JavaScript
   * Framework NodeJS 
