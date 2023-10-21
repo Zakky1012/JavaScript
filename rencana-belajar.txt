@@ -1,0 +1,6 @@
+RENCANA BELAJAR 
+- HTML 
+- CSS
+- JavaScript 
+  * Dasar-dasar JavaScript
+  * Framework NodeJS 
