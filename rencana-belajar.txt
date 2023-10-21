@@ -4,4 +4,13 @@ RENCANA BELAJAR
 - JavaScript 
   * Dasar-dasar JavaScript
   * Belajar OOP JavaScript
-  * Framework NodeJS 
+  * Framework JavaScript
+    ^ NodeJS 
+    ^ React 
+    ^ Vue 
+- PHP
+  * Dasar PHP
+  * OOP di PHP
+  * Framework PHP
+    ^ Laravel
+    ^ CodeIgniter 
